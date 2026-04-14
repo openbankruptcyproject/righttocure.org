@@ -6,83 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## What Does Right to Cure Mean? -- Default Cure Notice Explained [2026]
-Source: https://righttocure.org/what-does-right-to-cure-mean.html
-
-← righttocure.org Home
-
-What Does Right to Cure Mean?
-
-Understanding your right to fix a loan default before losing your property
-
-Quick Answer
-
-Right to cure means you have a legal right to fix a loan default by paying the past-due amount (plus fees) within a set deadline. The lender must give you written notice and cannot repossess or foreclose until the cure period expires. If you cure the default in time, your loan continues as if the default never happened.
-
-What Does Right to Cure Mean in Practice?
-
-When you fall behind on a secured loan -- a mortgage, auto loan, or other installment agreement -- the lender cannot immediately take your property. In most states, the lender must first send you a notice of right to cure (sometimes called a "notice of default" or "notice of intent to accelerate"). This notice:
-
-Identifies the exact amount you must pay to cure the default
-
-Specifies the deadline (typically 10-30 days for auto loans, 30-120 days for mortgages)
-
-Explains what happens if you do not cure (repossession, foreclosure, acceleration of the full balance)
-
-May include late fees and costs that must also be paid
-
-Right to Cure Default -- How It Works
-
-A right to cure default is your opportunity to reinstate a loan by paying everything you owe through the cure date. Here is the typical process:
-
-You miss one or more payments
-
-The lender sends a notice of right to cure
-
-You have the cure period (varies by state and contract) to pay the past-due amount plus fees
-
-If you pay in full by the deadline, the loan is reinstated
-
-If you do not pay, the lender can proceed with repossession, foreclosure, or acceleration
-
-The cure amount is typically the past-due payments plus late fees and costs -- not the entire loan balance. This is what makes the right to cure so valuable.
-
-Cure Periods by Debt Type
-
-Auto loans: 10-20 days in most states. Some states (like Connecticut) require 10 days; others allow up to 30. Auto loan cure guide →
-
-Mortgages: Federal law requires servicers to wait 120 days after default before starting foreclosure. Many states add additional cure periods. Mortgage cure rights →
-
-Bankruptcy cure: In Chapter 13, you can cure defaults over the entire 3-5 year plan period under Section 1322(b)(5). Bankruptcy cure guide →
-
-What to Do When You Get a Right to Cure Notice
-
-Read the deadline carefully -- it is often shorter than you expect
-
-Verify the amount -- check that late fees and charges are correct
-
-Pay in the exact manner specified -- certified check, wire, or online payment as required
-
-Get written confirmation -- after paying, request a letter confirming the cure
-
-Consider Chapter 13 -- if you cannot cure in time, filing bankruptcy triggers the automatic stay and gives you 3-5 years to catch up. See automatic stay guide
-
-Right to Cure by State
-
-Cure rights and notice requirements vary significantly by state. Some states have strong borrower protections with long cure periods; others offer minimal protection. For a state-by-state breakdown, see our right to cure by state guide.
-
-For specific notice requirements your lender must follow, see our notice requirements guide.
-
-Right to Cure Home
-Deficiency Balance Guide
-
-Part of the Open Bankruptcy Project -- free, open-source bankruptcy information.
-
-This is educational information, not legal advice.
-
----
-
-## After Cure Default -- What Happens If You Default Again
+## After Cure Default - What Happens If You Default Again
 Source: https://righttocure.org/after-cure-default.html
 
 After Cure Default
@@ -141,7 +65,7 @@ Further Reading & Resources
 Authority sources for deeper research on statutes of limitations and time-barred debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Time-Barred Debt
 Consumer guide
@@ -208,7 +132,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Auto Loan Right to Cure -- Preventing Repossession
+## Auto Loan Right to Cure - Preventing Repossession
 Source: https://righttocure.org/auto-loan-cure.html
 
 Auto Loan Right to Cure
@@ -225,9 +149,9 @@ What You Must Pay
 
 The cure amount is missed payments plus late fees and collection costs. It is NOT the full loan balance. For example: 3 missed payments of $400 with $50 late fees = $1,350 cure amount.
 
-After Repossession -- Right to Redeem
+After Repossession - Right to Redeem
 
-You may have the right to redeem by paying the full balance plus repo and storage costs. Some states allow reinstatement (curing just past-due amounts) after repo. The window is short -- until the vehicle is sold.
+You may have the right to redeem by paying the full balance plus repo and storage costs. Some states allow reinstatement (curing just past-due amounts) after repo. The window is short - until the vehicle is sold.
 
 Frequently Asked Questions
 
@@ -267,7 +191,7 @@ Further Reading & Resources
 Authority sources for deeper research on statutes of limitations and time-barred debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Time-Barred Debt
 Consumer guide
@@ -334,7 +258,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Bankruptcy Cure -- Using Chapter 13 to Catch Up on Payments
+## Bankruptcy Cure - Using Chapter 13 to Catch Up on Payments
 Source: https://righttocure.org/bankruptcy-cure.html
 
 Bankruptcy Cure
@@ -393,7 +317,7 @@ Further Reading & Resources
 Authority sources for deeper research on statutes of limitations and time-barred debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Time-Barred Debt
 Consumer guide
@@ -460,7 +384,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Cure Timeline -- Deadlines and Steps to Save Your Property
+## Cure Timeline - Deadlines and Steps to Save Your Property
 Source: https://righttocure.org/cure-timeline.html
 
 Cure Timeline
@@ -479,7 +403,7 @@ Note the exact deadline and cure amount. Get the amount in writing. Assess wheth
 
 Day 60-90: Cure or Seek Help
 
-If you can cure, pay by certified funds and keep proof. If not, consult an attorney or legal aid. Consider bankruptcy -- filing stops enforcement immediately.
+If you can cure, pay by certified funds and keep proof. If not, consult an attorney or legal aid. Consider bankruptcy - filing stops enforcement immediately.
 
 After the Deadline: Emergency Options
 
@@ -497,7 +421,7 @@ Not automatically. Unless the lender agrees in writing to extend. Federal Regula
 
 Can I cure in installments?
 
-Not under most statutes -- full cure is due by deadline. But some lenders agree to repayment plans. In Chapter 13, the cure is spread over 3-5 years.
+Not under most statutes - full cure is due by deadline. But some lenders agree to repayment plans. In Chapter 13, the cure is spread over 3-5 years.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 Free Discharge Screener
@@ -523,7 +447,7 @@ Further Reading & Resources
 Authority sources for deeper research on statutes of limitations and time-barred debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Time-Barred Debt
 Consumer guide
@@ -590,12 +514,14 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Notice of Right to Cure -- Default Cure Rights in Bankruptcy [2026]
+## Notice of Right to Cure - Default Cure Rights in Bankruptcy [2026]
 Source: https://righttocure.org/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
-Notice of Right to Cure -- Your Right to Fix a Default
+Notice of Right to Cure - Your Right to Fix a Default
 
 Your Right to Fix a Default Before Losing Your Property
 
@@ -603,7 +529,7 @@ What Is the Right to Cure?
 
 The right to cure is your legal right to fix a default (usually by making overdue payments) before the creditor can take further action like repossession, foreclosure, or contract termination. Most states require creditors to send a "notice of right to cure" giving you a specific number of days to bring the account current before they can proceed.
 
-This is one of the most important consumer protections in secured lending. It gives you a window -- typically 10 to 30 days -- to save your home, car, or other property from seizure.
+This is one of the most important consumer protections in secured lending. It gives you a window - typically 10 to 30 days - to save your home, car, or other property from seizure.
 
 Right to Cure in Auto Loans
 
@@ -615,17 +541,17 @@ Right to Cure in Mortgages
 
 Mortgage cure rights are robust. Federal law (CFPB servicing rules) requires servicers to wait at least 120 days after a missed payment before starting foreclosure. Most states add additional cure periods on top of this. During this time, you can: make up all missed payments to reinstate the loan, apply for a loan modification, request forbearance, or sell the home.
 
-The cure amount includes: all missed monthly payments, late fees (check if the amount is correct -- overcharges are common), and the servicer's costs. Filing bankruptcy resets the clock and gives you additional time through a Chapter 13 plan to cure the arrears over 3-5 years.
+The cure amount includes: all missed monthly payments, late fees (check if the amount is correct - overcharges are common), and the servicer's costs. Filing bankruptcy resets the clock and gives you additional time through a Chapter 13 plan to cure the arrears over 3-5 years.
 
 Right to Cure in Commercial Contracts
 
-Many business contracts include a right to cure provision. Before terminating a contract for breach, the non-breaching party must provide written notice and a reasonable opportunity to cure. The cure period is typically specified in the contract -- commonly 15 to 30 days. If you cure within the period, the contract continues as if the breach never occurred.
+Many business contracts include a right to cure provision. Before terminating a contract for breach, the non-breaching party must provide written notice and a reasonable opportunity to cure. The cure period is typically specified in the contract - commonly 15 to 30 days. If you cure within the period, the contract continues as if the breach never occurred.
 
 Review your contract carefully. Some contracts specify that the right to cure only applies to the first breach, or limit the number of cures allowed. Others allow cure only for certain types of breaches (payment defaults but not performance failures).
 
 How to Respond to a Cure Notice
 
-1. Read the notice carefully -- note the exact amount and deadline. 2. Verify the amount. Request an itemized breakdown. Late fees, inspection fees, and attorney fees are often overcharged. 3. Pay the full cure amount by the deadline. Partial payments may not be accepted and do not cure the default. 4. Get confirmation in writing that the cure was accepted and the account is current. 5. If you cannot pay, contact the creditor immediately to negotiate or explore alternatives.
+1. Read the notice carefully - note the exact amount and deadline. 2. Verify the amount. Request an itemized breakdown. Late fees, inspection fees, and attorney fees are often overcharged. 3. Pay the full cure amount by the deadline. Partial payments may not be accepted and do not cure the default. 4. Get confirmation in writing that the cure was accepted and the account is current. 5. If you cannot pay, contact the creditor immediately to negotiate or explore alternatives.
 
 When You Cannot Cure
 
@@ -635,27 +561,27 @@ Right to Cure After Repossession
 
 In many states, you retain the right to "redeem" collateral even after repossession but before the lender sells it. Redemption typically requires paying the full accelerated balance (not just the past-due amount). The lender must provide you with a notice stating the redemption amount and the deadline (usually 10-15 days after repossession).
 
-Some states also give you the right to reinstate (bring current) rather than redeem (pay in full). Know which right your state provides -- reinstatement is much more affordable. Check your state's protections.
+Some states also give you the right to reinstate (bring current) rather than redeem (pay in full). Know which right your state provides - reinstatement is much more affordable. Check your state's protections.
 
 Explore All Topics
 
-Right to Cure by State -- Pre-Default Notice Requirements
+Right to Cure by State - Pre-Default Notice Requirements
 
-Mortgage Right to Cure -- Preventing Foreclosure
+Mortgage Right to Cure - Preventing Foreclosure
 
-Auto Loan Right to Cure -- Preventing Repossession
+Auto Loan Right to Cure - Preventing Repossession
 
-UCC Cure Provisions -- Your Rights Under the Uniform Commercial Code
+UCC Cure Provisions - Your Rights Under the Uniform Commercial Code
 
-Cure Timeline -- Deadlines and Steps to Save Your Property
+Cure Timeline - Deadlines and Steps to Save Your Property
 
-Cure Notice Requirements -- What Lenders Must Tell You
+Cure Notice Requirements - What Lenders Must Tell You
 
-Bankruptcy Cure -- Using Chapter 13 to Catch Up on Payments
+Bankruptcy Cure - Using Chapter 13 to Catch Up on Payments
 
-Reinstatement vs. Cure -- Understanding the Difference
+Reinstatement vs. Cure - Understanding the Difference
 
-After Cure Default -- What Happens If You Default Again
+After Cure Default - What Happens If You Default Again
 
 Frequently Asked Questions
 
@@ -677,7 +603,7 @@ In bankruptcy, the right to cure allows a Chapter 13 debtor to catch up on misse
 
 How long do I have to cure a mortgage default?
 
-In Chapter 13 bankruptcy, you have the entire length of your plan -- 3 to 5 years -- to cure mortgage arrears while making current payments. Outside of bankruptcy, most states require lenders to give 30 to 120 days notice before foreclosure, with federal rules requiring 120 days minimum.
+In Chapter 13 bankruptcy, you have the entire length of your plan - 3 to 5 years - to cure mortgage arrears while making current payments. Outside of bankruptcy, most states require lenders to give 30 to 120 days notice before foreclosure, with federal rules requiring 120 days minimum.
 
 Can I cure a car loan default in Chapter 13?
 
@@ -717,7 +643,7 @@ Further Reading & Resources
 Authority sources for deeper research on statutes of limitations and time-barred debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Time-Barred Debt
 Consumer guide
@@ -765,7 +691,7 @@ chapter7vs13.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -900,6 +826,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 righttocure.org
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -913,9 +840,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Mortgage Right to Cure -- Preventing Foreclosure
+## Mortgage Right to Cure - Preventing Foreclosure
 Source: https://righttocure.org/mortgage-cure-rights.html
 
 Mortgage Right to Cure
@@ -978,7 +907,7 @@ Further Reading & Resources
 Authority sources for deeper research on statutes of limitations and time-barred debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Time-Barred Debt
 Consumer guide
@@ -1045,7 +974,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Cure Notice Requirements -- What Lenders Must Tell You
+## Cure Notice Requirements - What Lenders Must Tell You
 Source: https://righttocure.org/notice-requirements.html
 
 Cure Notice Requirements
@@ -1104,7 +1033,7 @@ Further Reading & Resources
 Authority sources for deeper research on statutes of limitations and time-barred debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Time-Barred Debt
 Consumer guide
@@ -1171,7 +1100,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Reinstatement vs. Cure -- Understanding the Difference
+## Reinstatement vs. Cure - Understanding the Difference
 Source: https://righttocure.org/reinstatement-vs-cure.html
 
 Reinstatement vs. Cure
@@ -1190,7 +1119,7 @@ For mortgages, many states provide a statutory right to reinstate before foreclo
 
 Strategic Considerations
 
-If you can afford to cure/reinstate, do it -- you keep the property on original terms. If not, Chapter 13 spreads the cure over 3-5 years. If you cannot cure at all, consider surrender plus bankruptcy to discharge any deficiency.
+If you can afford to cure/reinstate, do it - you keep the property on original terms. If not, Chapter 13 spreads the cure over 3-5 years. If you cannot cure at all, consider surrender plus bankruptcy to discharge any deficiency.
 
 Frequently Asked Questions
 
@@ -1230,7 +1159,7 @@ Further Reading & Resources
 Authority sources for deeper research on statutes of limitations and time-barred debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Time-Barred Debt
 Consumer guide
@@ -1297,7 +1226,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Right to Cure by State -- Pre-Default Notice Requirements
+## Right to Cure by State - Pre-Default Notice Requirements
 Source: https://righttocure.org/right-to-cure-by-state.html
 
 Right to Cure by State
@@ -1308,7 +1237,7 @@ Home » Right to Cure by State
 
 Overview of State Cure Rights
 
-Every state provides some form of right to cure before enforcement. The specifics vary dramatically -- type of notice, cure period length, and debt types covered.
+Every state provides some form of right to cure before enforcement. The specifics vary dramatically - type of notice, cure period length, and debt types covered.
 
 States with Strong Protections
 
@@ -1356,7 +1285,7 @@ Further Reading & Resources
 Authority sources for deeper research on statutes of limitations and time-barred debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Time-Barred Debt
 Consumer guide
@@ -1423,7 +1352,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## UCC Cure Provisions -- Your Rights Under the Uniform Commercial Code
+## UCC Cure Provisions - Your Rights Under the Uniform Commercial Code
 Source: https://righttocure.org/ucc-cure-provisions.html
 
 UCC Cure Provisions
@@ -1434,11 +1363,11 @@ Home » UCC Cure Provisions
 
 UCC Article 9 Overview
 
-UCC Article 9 governs secured transactions -- loans backed by personal property. While the base UCC does not mandate pre-repossession cure, it requires notice of sale, commercially reasonable disposition, and accounting for surplus. State adoptions often add cure rights.
+UCC Article 9 governs secured transactions - loans backed by personal property. While the base UCC does not mandate pre-repossession cure, it requires notice of sale, commercially reasonable disposition, and accounting for surplus. State adoptions often add cure rights.
 
 Notice Requirements
 
-UCC 9-611 requires the secured party to send notice before disposing of collateral. Many state adoptions add a cure period requirement. The notice must be sent in a reasonable time -- 10 days is a common minimum.
+UCC 9-611 requires the secured party to send notice before disposing of collateral. Many state adoptions add a cure period requirement. The notice must be sent in a reasonable time - 10 days is a common minimum.
 
 Commercially Reasonable Disposition
 
@@ -1482,7 +1411,7 @@ Further Reading & Resources
 Authority sources for deeper research on statutes of limitations and time-barred debt:
 
 Fair Debt Collection Practices Act
-Cornell LII -- FDCPA
+Cornell LII - FDCPA
 
 CFPB: Time-Barred Debt
 Consumer guide
@@ -1546,3 +1475,151 @@ Privacy | Terms
 ♥ Sponsor
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## What Does Right to Cure Mean? - Default Cure Notice Explained [2026]
+Source: https://righttocure.org/what-does-right-to-cure-mean.html
+
+← righttocure.org Home
+
+What Does Right to Cure Mean?
+
+Understanding your right to fix a loan default before losing your property
+
+Quick Answer
+
+Right to cure means you have a legal right to fix a loan default by paying the past-due amount (plus fees) within a set deadline. The lender must give you written notice and cannot repossess or foreclose until the cure period expires. If you cure the default in time, your loan continues as if the default never happened.
+
+What Does Right to Cure Mean in Practice?
+
+When you fall behind on a secured loan - a mortgage, auto loan, or other installment agreement - the lender cannot immediately take your property. In most states, the lender must first send you a notice of right to cure (sometimes called a "notice of default" or "notice of intent to accelerate"). This notice:
+
+Identifies the exact amount you must pay to cure the default
+
+Specifies the deadline (typically 10-30 days for auto loans, 30-120 days for mortgages)
+
+Explains what happens if you do not cure (repossession, foreclosure, acceleration of the full balance)
+
+May include late fees and costs that must also be paid
+
+Right to Cure Default - How It Works
+
+A right to cure default is your opportunity to reinstate a loan by paying everything you owe through the cure date. Here is the typical process:
+
+You miss one or more payments
+
+The lender sends a notice of right to cure
+
+You have the cure period (varies by state and contract) to pay the past-due amount plus fees
+
+If you pay in full by the deadline, the loan is reinstated
+
+If you do not pay, the lender can proceed with repossession, foreclosure, or acceleration
+
+The cure amount is typically the past-due payments plus late fees and costs - not the entire loan balance. This is what makes the right to cure so valuable.
+
+Cure Periods by Debt Type
+
+Auto loans: 10-20 days in most states. Some states (like Connecticut) require 10 days; others allow up to 30. Auto loan cure guide →
+
+Mortgages: Federal law requires servicers to wait 120 days after default before starting foreclosure. Many states add additional cure periods. Mortgage cure rights →
+
+Bankruptcy cure: In Chapter 13, you can cure defaults over the entire 3-5 year plan period under Section 1322(b)(5). Bankruptcy cure guide →
+
+What to Do When You Get a Right to Cure Notice
+
+Read the deadline carefully - it is often shorter than you expect
+
+Verify the amount - check that late fees and charges are correct
+
+Pay in the exact manner specified - certified check, wire, or online payment as required
+
+Get written confirmation - after paying, request a letter confirming the cure
+
+Consider Chapter 13 - if you cannot cure in time, filing bankruptcy triggers the automatic stay and gives you 3-5 years to catch up. See automatic stay guide
+
+Right to Cure by State
+
+Cure rights and notice requirements vary significantly by state. Some states have strong borrower protections with long cure periods; others offer minimal protection. For a state-by-state breakdown, see our right to cure by state guide.
+
+For specific notice requirements your lender must follow, see our notice requirements guide.
+
+Right to Cure Home
+Deficiency Balance Guide
+
+Part of the Open Bankruptcy Project - free, open-source bankruptcy information.
+
+This is educational information, not legal advice.
+
+---
+
+## Privacy Policy - righttocure.org
+Source: https://righttocure.org/privacy.html
+
+righttocure.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.

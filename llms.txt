@@ -1,21 +1,22 @@
-# Notice of Right to Cure -- Default Cure Rights in Bankruptcy [2026]
+# Notice of Right to Cure - Default Cure Rights in Bankruptcy [2026]
 > Notice of right to cure explained. What does right to cure mean? Learn how to cure a default on your mortgage, auto loan, or other debt. Rig...
 
 ## About
 righttocure.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- What Does Right to Cure Mean? -- Default Cure Notice Explained: https://righttocure.org/what-does-right-to-cure-mean.html
-- After Cure Default -- What Happens If You Default Again: https://righttocure.org/after-cure-default.html
-- Auto Loan Right to Cure -- Preventing Repossession: https://righttocure.org/auto-loan-cure.html
-- Bankruptcy Cure -- Using Chapter 13 to Catch Up on Payments: https://righttocure.org/bankruptcy-cure.html
-- Cure Timeline -- Deadlines and Steps to Save Your Property: https://righttocure.org/cure-timeline.html
-- Notice of Right to Cure -- Default Cure Rights in Bankruptcy: https://righttocure.org/
-- Mortgage Right to Cure -- Preventing Foreclosure: https://righttocure.org/mortgage-cure-rights.html
-- Cure Notice Requirements -- What Lenders Must Tell You: https://righttocure.org/notice-requirements.html
-- Reinstatement vs. Cure -- Understanding the Difference: https://righttocure.org/reinstatement-vs-cure.html
-- Right to Cure by State -- Pre-Default Notice Requirements: https://righttocure.org/right-to-cure-by-state.html
-- UCC Cure Provisions -- Your Rights Under the Uniform Commercial Code: https://righttocure.org/ucc-cure-provisions.html
+- After Cure Default - What Happens If You Default Again: https://righttocure.org/after-cure-default.html
+- Auto Loan Right to Cure - Preventing Repossession: https://righttocure.org/auto-loan-cure.html
+- Bankruptcy Cure - Using Chapter 13 to Catch Up on Payments: https://righttocure.org/bankruptcy-cure.html
+- Cure Timeline - Deadlines and Steps to Save Your Property: https://righttocure.org/cure-timeline.html
+- Notice of Right to Cure - Default Cure Rights in Bankruptcy: https://righttocure.org/
+- Mortgage Right to Cure - Preventing Foreclosure: https://righttocure.org/mortgage-cure-rights.html
+- Cure Notice Requirements - What Lenders Must Tell You: https://righttocure.org/notice-requirements.html
+- Reinstatement vs. Cure - Understanding the Difference: https://righttocure.org/reinstatement-vs-cure.html
+- Right to Cure by State - Pre-Default Notice Requirements: https://righttocure.org/right-to-cure-by-state.html
+- UCC Cure Provisions - Your Rights Under the Uniform Commercial Code: https://righttocure.org/ucc-cure-provisions.html
+- What Does Right to Cure Mean? - Default Cure Notice Explained: https://righttocure.org/what-does-right-to-cure-mean.html
+- Privacy Policy: https://righttocure.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
